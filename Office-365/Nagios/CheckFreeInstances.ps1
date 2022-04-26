@@ -11,7 +11,7 @@
   None
 .NOTES
   Version:        0.1
-  Author:         Eduard Roig Gilete
+  Author:         Eduard R. Gilete
   Creation Date:  24/12/2021
   Purpose/Change: Check with Nagios the free Backup instances
 .EXAMPLE
